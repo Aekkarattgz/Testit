@@ -1,0 +1,40 @@
+ItemsController
+ItemTypesController
+UsersController
+UserTypesController
+
+test Items POST
+{
+  "id": 0,
+  "userId": 2,
+  "itemTypeId": 2,
+  "title": "string",
+  "capacity": 0,
+  "numberOfBeds": 0,
+  "numberOfBedrooms": 0,
+  "numberOfBathrooms": 0,
+  "exactAddress": "string",
+  "approximateAddress": "string",
+  "description": "string",
+  "hostRules": "string",
+  "minimumNights": 0,
+  "maximumNights": 0
+}
+
+test Items PUT
+{
+  "id": 26,
+  "userId": 2,
+  "itemTypeId": 2,
+  "title": "safasdffdasf",
+  "capacity": 0,
+  "numberOfBeds": 0,
+  "numberOfBedrooms": 0,
+  "numberOfBathrooms": 0,
+  "exactAddress": "string",
+  "approximateAddress": "string",
+  "description": "string",
+  "hostRules": "string",
+  "minimumNights": 0,
+  "maximumNights": 0
+}

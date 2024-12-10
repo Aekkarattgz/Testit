@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Testit\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\controllers\\usertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\models\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\controllers\\itemtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\itemtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|d:\\testit\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF74F4-7766-4DF8-9778-0E4405203305}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTypesController.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\UserTypesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserTypesController.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\UserTypesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserTypesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:12:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:15:22.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:11:33.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:40:55.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T14:27:22.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:41:49.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\ItemType.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ItemType.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\ItemType.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:10:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Item.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Models\\Item.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Item.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:07:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:11:31.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemTypesController.cs",
+              "DocumentMoniker": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\ItemTypesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ItemTypesController.cs",
+              "ToolTip": "D:\\Testit\\WebApplication1\\WebApplication1\\Controllers\\ItemTypesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ItemTypesController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:11:53.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
